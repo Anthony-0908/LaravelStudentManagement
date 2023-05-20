@@ -1,0 +1,2 @@
+run this script for making the laravel app without making another folder 
+composer create-project laravel/laravel . --prefer-dist
